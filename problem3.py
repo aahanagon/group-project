@@ -11,5 +11,5 @@ def isEven(num):
     else:
         return False
     
-print(isEven(5))
+print(isEven(3))
 print(isEven(4))
